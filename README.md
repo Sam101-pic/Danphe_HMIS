@@ -99,6 +99,17 @@ Start contributing to Danphe EMR with the comprehensive [Setup Guide](https://op
 
 ---
 
+## ⚙️ HTML Image Map
+
+There's some specific flow of the Danphe modules that you don't wanna miss out.
+
+### Flow_diagram 
+![Flow Diagram](Flow_diagram.png)
+
+<a href="Flow_diagram.png">
+    <img src="Flow_diagram.png" alt="Flow Diagram">
+</a>
+
 ## 📂 Danphe Modules  
 
 Danphe EMR includes the following modules:  
