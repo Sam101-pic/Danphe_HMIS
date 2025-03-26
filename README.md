@@ -101,7 +101,11 @@ Start contributing to Danphe EMR with the comprehensive [Setup Guide](https://op
 
 ## ⚙️ HTML Image Map
 
-There's some specific flow of the Danphe modules that you don't wanna miss out.
+### 🔗 Interactive Flow Diagram
+
+[Click here to open the interactive flow diagram](https://Sam101-pic.github.io/Readme_codes/Sam.html)
+
+---
 
 ### Flow_diagram 
 ![Flow Diagram](Flow_diagram.png)
