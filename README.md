@@ -103,16 +103,13 @@ Start contributing to Danphe EMR with the comprehensive [Setup Guide](https://op
 
 ### 🔗 Interactive Flow Diagram
 
-[Click here to open the interactive flow diagram](https://Sam101-pic.github.io/Readme_codes/Sam.html)
+- [Click here to open the interactive flow diagram](https://Sam101-pic.github.io/Readme_codes/Sam.html)
+
+<a href="https://Sam101-pic.github.io/Readme_codes/Sam.html" target="_blank">
+  <img src="Flow_diagram.png" alt="Flow Diagram" />
+</a>
 
 ---
-
-### Flow_diagram 
-![Flow Diagram](Flow_diagram.png)
-
-<a href="Flow_diagram.png">
-    <img src="Flow_diagram.png" alt="Flow Diagram">
-</a>
 
 ## 📂 Danphe Modules  
 
